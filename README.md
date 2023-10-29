@@ -15,7 +15,7 @@
    </a>
 </p>
 <p align="center">
-   <a href="https://github.com/seu_usuario/api-rest-ts-typeORM/stargazers">
+   <a href="https://github.com/polianams/api-rest-ts-typeORM/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/polianams/api-rest-ts-typeORM?style=social">
   </a>
 </p>

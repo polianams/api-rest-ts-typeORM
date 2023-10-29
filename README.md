@@ -77,3 +77,45 @@ ou, se preferir
 ```
 npm run dev
 ```
+## 🚀 Tecnologias Utilizadas
+
+- Node.js (versão 18.16.0);
+- TypeScript;
+- [uuid](https://www.npmjs.com/package/uuid) (versão 9.0.1);
+- [Express.js](https://www.npmjs.com/package/express) (versão 4.18.2);
+- [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express) (versão 5.0.0);
+
+### Dependências de Desenvolvimento:
+
+- [Typescript](https://www.npmjs.com/package/typescript) (versão 5.2.2);
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) (versão 2.0.0);
+- [nodemon](https://www.npmjs.com/package/nodemon) (versão 3.0.1);
+- [@types/express](https://www.npmjs.com/package/@types/express) (versão 4.17.20);
+- [@types/uuid](https://www.npmjs.com/package/@types/uuid) (versão 9.0.6).
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Para contribuir com o projeto, siga as etapas abaixo:
+
+1. Faça um fork deste repositório;
+2. Crie uma branch com sua feature:
+```
+git checkout -b minha-feature
+```
+4. Faça commit das suas alterações:
+```
+git commit -m 'Minha nova feature'
+```
+5. Faça push para a branch:
+```
+git push origin minha-feature
+```
+6. Abra um pull request.
+
+## 🧙‍♂️ Autora
+
+Este projeto foi desenvolvido por [Poliana Santos](https://github.com/polianams). 
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

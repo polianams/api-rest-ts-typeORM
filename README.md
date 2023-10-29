@@ -1,7 +1,7 @@
 # 🛒 Back-end - API REST de uma Plataforma de Aulas Online com TypeScript e TypeORM
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/polianams/api-rest-ts-typeORM?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/polianams/api-rest-ts-typeORM?color=blue">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/polianams/api-rest-ts-typeORM">
   
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/polianams/">
-    <img alt="Feito por Poliana Santos" src="https://img.shields.io/badge/feito-por%20Poliana%20Santos-D818A5">
+    <img alt="Feito por Poliana Santos" src="https://img.shields.io/badge/feito-por%20Poliana%20Santos-blue">
    </a>
 </p>
 <p align="center">
